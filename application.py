@@ -9,7 +9,12 @@ print('Bienvenu sur Github')
 
 #Création d'une fonction hello
 
+def name (name):
+    return f'my name is {name}'
+
 def hello (name):
     return f'hello {name}'
+
+
     
 
